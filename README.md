@@ -1,4 +1,2 @@
 # MAEADomabot
-Lego Mindstorms NXT Project - By MAEA Robotics, a member of the Iniftar Foundations.
-
-MAEA Robotics: http://www.maea.site
+Lego Mindstorms NXT project by MAEA Projects, a young associate of The Iniftar Foundations'
